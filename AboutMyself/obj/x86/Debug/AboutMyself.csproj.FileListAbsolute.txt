@@ -1,0 +1,7 @@
+C:\Users\Taukir\Documents\Visual Studio 2010\Projects\AboutMyself\AboutMyself\bin\Debug\AboutMyself.exe
+C:\Users\Taukir\Documents\Visual Studio 2010\Projects\AboutMyself\AboutMyself\bin\Debug\AboutMyself.pdb
+C:\Users\Taukir\Documents\Visual Studio 2010\Projects\AboutMyself\AboutMyself\obj\x86\Debug\AboutMyself.AboutMyselfUI.resources
+C:\Users\Taukir\Documents\Visual Studio 2010\Projects\AboutMyself\AboutMyself\obj\x86\Debug\AboutMyself.Properties.Resources.resources
+C:\Users\Taukir\Documents\Visual Studio 2010\Projects\AboutMyself\AboutMyself\obj\x86\Debug\AboutMyself.csproj.GenerateResource.Cache
+C:\Users\Taukir\Documents\Visual Studio 2010\Projects\AboutMyself\AboutMyself\obj\x86\Debug\AboutMyself.exe
+C:\Users\Taukir\Documents\Visual Studio 2010\Projects\AboutMyself\AboutMyself\obj\x86\Debug\AboutMyself.pdb
